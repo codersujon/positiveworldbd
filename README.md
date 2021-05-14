@@ -1,4 +1,4 @@
-# Hello, I'm [Sujan Ahmed](http://www.codersujon.com/)
+# Hello, I'm [Md. Sujan Ahmed](http://www.codersujon.com/) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=positiveworldbd&label=Views&color=blue&style=plastic" alt="positiveworldbd" /> </p>
 <a href="https://www.facebook.com/codersujon/">
   <img align="left" alt="Sujon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -34,7 +34,7 @@
 
 <br>
 
-### !👨‍👨‍! I'm trying to be a JavaScript Programmer!👨‍👨!.
+#### !👨‍ I'm a passionate self-taught Front-End Developer from Bangladesh.
 - 🔭 I’m currently learning JavaScript
 - 💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
 - 🥅 2021 Goals: Learn React JS, Vue JS, Angular
@@ -43,15 +43,19 @@
 #
 [![Linkedin: codersujon](https://img.shields.io/badge/-codersujon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codersujon/)](https://www.linkedin.com/in/codersujon/)
 
-
 **Languages and Tools:**  
 
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<!-- <code><a href="#" target="_blank"><img height="25" src=""></a></code> -->
+<code>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+      </a>
+ </code>
 
-<hr/>
+#
 
-<img width="300" alt="S.Ahmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=positiveworldbd&show_icons=true">
+🙌🏼 NOTE: Top languages don't indicate my skill level or something like that, it's a Github metric of which languages I have the most code on GitHub, it's a new feature of Github-readme-stats
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=positiveworldbd&card_width=550)](https://codersujon.com/)
-
+  <img align="left" width="300" alt="Sujan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=positiveworldbd&langs_count=8">
+  <img align="right" width="600" alt="Sujan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=positiveworldbd&show_icons=true">
+  
+  
