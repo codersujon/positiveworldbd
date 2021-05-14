@@ -27,7 +27,7 @@
 <hr/>
 
 
-<img width="550" alt="S.Ahmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=positiveworldbd&show_icons=true">
+<img width="300" alt="S.Ahmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=positiveworldbd&show_icons=true">
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=easinwebpro&card_width=550)](https://easinwebpro.com/)
 
