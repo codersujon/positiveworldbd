@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Md.Sujan Ahmed</h1>
 
 
-# !👨‍💻👨‍💻! I'm  a JavaScript Developer with great habits !👨‍💻👨‍💻!.
+# !👨‍👨‍! I'm  a JavaScript Developer with great habits !👨‍👨!.
 - 🔭 I’m currently working as a Front-End Developers
 - 👨‍💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
 
