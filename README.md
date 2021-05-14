@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Md.Sujan Ahmed</h1>
 
-# !👨‍👨‍! I'm  a JavaScript Developer with great habits !👨‍👨!.
+## !👨‍👨‍! I'm  a JavaScript Developer with great habits !👨‍👨!.
 - 🔭 I’m currently learning JavaScript
-- 👨‍💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
-
+- 💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
 - 🥅 2021 Goals: Learn React JS, Vue JS
 - 💬 Ask me about JavaScript for any tech related stuff.
 - 📫 How to reach me. => info@codersujon.com
