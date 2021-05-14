@@ -42,14 +42,22 @@
 - 📫 How to reach me. => info@codersujon.com
 #
 [![Linkedin: codersujon](https://img.shields.io/badge/-codersujon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codersujon/)](https://www.linkedin.com/in/codersujon/)
+[![GitHub positiveworldbd](https://img.shields.io/github/followers/positiveworldbd?label=follow&style=social)](https://github.com/positiveworldbd)
+[![website](https://img.shields.io/badge/PortfolioWebsite-codersujon.com-2648ff?style=flat-square&logo=google-chrome)](https://codersujon.com/)
 
 **Languages and Tools:**  
 
-<code>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-      </a>
- </code>
+<code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></a></code>
+  <code><a href="#" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></code>
+
 
 #
 
