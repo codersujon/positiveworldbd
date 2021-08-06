@@ -37,7 +37,7 @@
 #### !👨‍ I'm a passionate self-taught Front-End Developer from Bangladesh.
 - 🔭 Still, Now, I'm learning JavaScript
 - 💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
-- 🥅 2021 Goals: Learn React JS, Vue JS, Angular
+- 🥅 2021 Goals: Learn React JS, Vue JS
 - 💬 Ask me about JavaScript for any tech-related stuff.
 - 📫 How to reach me. => info@codersujon.com
 #
