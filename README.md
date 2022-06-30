@@ -63,7 +63,7 @@
 
 🙌🏼 NOTE: Top languages don't indicate my skill level or something like that, it's a Github metric of which languages I have the most code on GitHub, it's a new feature of Github-readme-stats
 
- <img align="left" width="300" alt="Sujan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=positiveworldbd&langs_count=8">
+ <img align="left" width="300" alt="Sujan's Top Langs" src="">
  <img align="right" width="500" alt="Sujan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=positiveworldbd&show_icons=true">
   
   
