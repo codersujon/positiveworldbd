@@ -37,7 +37,7 @@
 #### !👨‍ I'm a passionate Front-End Developer from Bangladesh.
 - 🔭 Still, Now, I'm learning JavaScript
 - 💻 My portfolio website [http://www.codersujon.com/](http://www.codersujon.com/)
-- 🥅 2022 Goals: Learn React JS, Next JS
+- 🥅 2022 Goals: Learn React JS, TypeScript, Next JS
 - 💬 Ask me about JavaScript for any tech-related stuff.
 - 📫 How to reach me. => info@codersujon.com
 #
